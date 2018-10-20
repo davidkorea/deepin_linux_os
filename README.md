@@ -17,3 +17,5 @@
 6. ```For this change to become active, you have to open a new terminal.```
 
     open a new ternimal run ```conda list```
+
+7. ```jupyter notebook```
