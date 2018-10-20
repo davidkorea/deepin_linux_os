@@ -8,7 +8,7 @@
 
 2. ```bash Anaconda3-5.3.0-Linux-x86_64.sh ```
 
-3. continue ```ENTER``` to read <Anaconda End User License Agreement>
+3. continue ```ENTER``` to read 《Anaconda End User License Agreement》
 
 4. ```Do you accept the license terms? [yes|no]```
 
